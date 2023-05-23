@@ -1,3 +1,6 @@
-altair
+matplotlib
 pandas
 streamlit
+seaborn
+numpy
+sklearn
